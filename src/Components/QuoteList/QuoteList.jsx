@@ -1,5 +1,4 @@
 import React from "react";
-import CardQuote from "../Card/CardQuote";
 import CardStorage from "../CardStorage/CardStorage";
 
 const QuoteList = ({ quotes, onDeleteQuotes }) => {

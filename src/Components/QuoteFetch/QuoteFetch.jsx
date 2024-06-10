@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import axios from 'axios'
 import CardQuote from '../Card/CardQuote';
-import toast from 'react-hot-toast';
+
 
 
 const QuoteFetch = ({savedQuotes, onSaveQuote}) => {
